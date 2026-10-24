@@ -1,52 +1,31 @@
-# Olá, sou Danilson Mangel 👋
-### Senior Software Engineer & AI Systems Architect
+# Danilson Mangel
 
-Engenheiro de Software focado no desenvolvimento de plataformas distribuídas de alta disponibilidade, arquiteturas FinTech seguras (cartões virtuais, conciliação e KYC) e infraestrutura de governança para Inteligência Artificial (Model Context Protocol - MCP).
+**Software Developer | Backend APIs and AI Integrations**
 
-📍 Angola | Disponível para projetos globais e posições remotas  
-💼 [LinkedIn](https://www.linkedin.com/in/danilson-mangel-4b118631a/) | 📧 denilson-puro@hotmail.com
+Based in Angola · Open to remote and international opportunities where eligible · [LinkedIn](https://www.linkedin.com/in/danilson-mangel-4b118631a/)
 
----
+I build software projects around APIs, data access, and AI workflows. My current focus is backend engineering and practical LLM integrations.
 
-### 🚀 Áreas de Especialização & Engenharia
+## Featured project
 
-- **FinTech & Payments Infrastructure:** Sistemas de cartões virtuais multimoeda, validação KYC (Sumsub), conciliação bancária, idempotência de transações e criptografia de credenciais (AES-256-GCM).
-- **AI Tooling & Governance:** Implementação de servidores Model Context Protocol (MCP), orquestração de agentes com RAG vetorial (pgvector) e controle estrito de permissões (SELECT-only) para LLMs.
-- **Engenharia de Backend & Monorepos:** Arquiteturas escaláveis e microsserviços com Fastify, Node.js (22 LTS), Express, Turborepo, PostgreSQL, Redis e Docker.
-- **Segurança Defensiva:** Autenticação multi-fator (TOTP RFC 6238, Email MFA), sessões HTTP-only, webhooks assinados por HMAC-SHA256.
+### [DPsoft Workspace](https://github.com/denilsonpuro/dpsoft-workspace)
 
----
+A TypeScript monorepo with a PostgreSQL reporting path. The current finance flow uses a controlled `monthly_revenue` tool and the OpenAI Responses API. The project is still in development; public MCP transport is not enabled while OAuth resource-server enforcement is pending.
 
-### 🛠️ Stack Tecnológica
+**Technologies in this project:** TypeScript, Node.js, Fastify, Next.js, PostgreSQL, Prisma.
 
-| Camada | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | TypeScript, JavaScript, Python, SQL |
-| **Backend & APIs** | Node.js (22 LTS), Fastify, Express, Next.js API Routes, RESTful, WebSockets |
-| **Bancos de Dados & Cache** | PostgreSQL, pgvector, Redis, SQLite (WAL Mode), Prisma ORM, Drizzle |
-| **IA & Dados** | Model Context Protocol (MCP), OpenAI Responses API, RAG, Embeddings |
-| **Segurança & DevOps** | Docker, Docker Compose, AES-256-GCM, HMAC-SHA256, Linux, Nginx |
-| **Frontend & UI** | React, Next.js, Tailwind CSS, shadcn/ui, i18n (PT/EN/FR) |
+## Current direction
+
+My current work focuses on AI integrations, backend APIs, and database-backed applications. I am looking for opportunities where I can contribute and continue developing as an engineer.
 
 ---
 
-### 🏆 Projetos em Destaque
+## Português
 
-#### 💳 [MolaPay — Plataforma de Cartões Virtuais & FinTech Engine](https://github.com/denilsonpuro/MolaPay)
-- Plataforma completa para emissão e gestão de cartões virtuais multimoeda com suporte nativo a múltiplos idiomas (PT/EN/FR).
-- **Segurança Bancária:** Integração com Sumsub KYC, Dual MFA (TOTP + Email), armazenamento de chaves com AES-256-GCM.
-- **Provedores:** Modelagem e sandbox para Sudo Africa, ProxyPay, AppyPay, StroWallet/ZiiroPay e EMIS/GPO.
+**Desenvolvedor de Software | APIs Backend e Integrações de IA**
 
-#### 🤖 [DPsoft AI Integration Platform (MCP)](https://github.com/denilsonpuro/dpsoft-workspace)
-- Infraestrutura empresarial para concessão controlada e auditável de acesso de IA a bancos de dados legados.
-- Implementação estrita de segurança: permissões de esquema em tempo real, geração controlada de ferramentas, logs de auditoria e conexões criptografadas.
+Estou em Angola e procuro oportunidades remotas e internacionais para as quais seja elegível, nas áreas de engenharia de IA e desenvolvimento backend. Desenvolvo projetos com APIs, acesso a dados e fluxos de IA, com foco atual em backend e integrações práticas com LLMs.
 
-#### 💬 [TalkFlow — WhatsApp Conversational Messaging Engine](https://github.com/denilsonpuro/TalkFlow)
-- Motor assíncrono de mensageria com **BullMQ**, **Redis**, **Baileys** e streaming de mídia para **AWS S3**.
-- Roteamento multi-atendente, gestão de filas e alta resiliência a picos de tráfego.
+O meu projeto em destaque, [DPsoft Workspace](https://github.com/denilsonpuro/dpsoft-workspace), é um monorepo TypeScript com um fluxo de relatórios PostgreSQL. O fluxo financeiro atual usa a ferramenta controlada `monthly_revenue` e a API OpenAI Responses. O projeto continua em desenvolvimento; o transporte MCP público ainda não está ativo enquanto falta implementar a validação de recursos OAuth.
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denilsonpuro&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas GitHub" />
-</p>
+Procuro uma oportunidade onde possa contribuir e continuar a desenvolver-me como engenheiro. [Contacte-me pelo LinkedIn](https://www.linkedin.com/in/danilson-mangel-4b118631a/).
